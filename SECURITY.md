@@ -1,6 +1,6 @@
 # Security Policy
 ## Reporting a Vulnerability
-If you discover a security issue related to repository content, links, or automation:
+If you discover a security issue related to repository content, links, automation, or workflows:
 - Do not post exploit details publicly in an issue
 - Open a private communication channel with maintainers first
 
@@ -12,3 +12,9 @@ If you discover a security issue related to repository content, links, or automa
 
 ## Response Goal
 We aim to acknowledge reports quickly and resolve confirmed issues as fast as possible.
+
+## Scope Notes
+This policy covers:
+- malicious or compromised links
+- GitHub Actions/workflow risks
+- dependency or automation abuse paths

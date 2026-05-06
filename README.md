@@ -1,42 +1,57 @@
-# Trusted Producer Circle
-Professional public-facing hub for trusted music production resources, curation standards, and collaboration.
+> Trusted Producer Circle curation hub for credible, production-ready music resources.
 
-## Primary Curated List
-The core resource for this project is the Awesome list:
+# Awesome Music from the Ether
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**[Awesome Audio Plugins & Dev (Trusted List)](https://github.com/GareBear99/awesome-audio-plugins-dev)**
+A public-facing, professional resource hub for trusted producers focused on:
+- official plugin and tool sources
+- high-quality sample resources
+- practical DSP/music-tech learning references
+- transparent curation standards
 
-This is the canonical list I share with collaborators and producer circles.
+## Trusted Anchor List
+Primary ecosystem anchor:
+- [Awesome Audio Plugins & Dev](https://github.com/GareBear99/awesome-audio-plugins-dev)
 
-## Mission
-- Keep a high-signal, trustworthy production resource network
-- Prioritize official, credible, and documented sources
-- Make collaboration and verification transparent
+## Start Here
+- Plugin & tool resources: [PLUGIN_AND_TOOL_RESOURCES.md](PLUGIN_AND_TOOL_RESOURCES.md)
+- Sample packs & sounds: [SAMPLE_PACKS_AND_SOUND_RESOURCES.md](SAMPLE_PACKS_AND_SOUND_RESOURCES.md)
+- DSP/music-tech learning: [DSP_AND_MUSIC_TECH_LEARNING.md](DSP_AND_MUSIC_TECH_LEARNING.md)
+- Curation standard: [CURATION_STANDARD.md](CURATION_STANDARD.md)
+- Community submissions: [COMMUNITY_SUBMISSIONS.md](COMMUNITY_SUBMISSIONS.md)
+- FAQ: [Q_AND_A_FAQ.md](Q_AND_A_FAQ.md)
 
-## Trust & Curation Standards
-Resources linked through this repo should be:
-- Official developer pages, vendor docs, or known public repositories
-- Relevant to production workflows (plugins, tools, sound design, audio development)
-- Clear about licensing and usage terms
-- Actively maintained or historically reliable
+## Why This Exists
+A lot of music resource lists are either noisy or hard to verify.
+This project is designed to stay:
+- trustworthy
+- practical for real producers
+- easy to navigate
+- strict about source credibility
+
+## Inclusion Standard
+A resource should meet at least one of these:
+- official vendor/developer source
+- strong practical production value
+- educational value with technical depth
+- clear licensing and legitimate redistribution terms
 
 Resources are excluded when they are:
-- Unverified mirror links or unknown redistribution pages
-- Misleading, spammy, or low-information listings
-- Legally ambiguous or missing source attribution
+- unverified mirrors or re-uploads
+- misleading or low-information pages
+- legally ambiguous or attribution-free dumps
 
-## Collaboration
-If you want to contribute vetted resources:
-1. Open an issue with the link and why it belongs
-2. Include the official source and license details
-3. Submit a pull request following `CONTRIBUTING.md`
+## Contributing
+Use the issue templates for submissions and broken links.
+Contribution process is in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Security
-Please report security concerns privately as described in `SECURITY.md`.
+## Repository Quality
+This repository includes:
+- contribution policy and code of conduct
+- security reporting policy
+- issue and PR templates
+- automated Markdown and link checks via GitHub Actions
 
 ## License
-This repository is licensed under the MIT License. See `LICENSE`.
-
-## Maintainer
-Trusted Producer Circle  
-If you want to collaborate, open an issue or PR first with your proposal.
+MIT. See [LICENSE](LICENSE).
